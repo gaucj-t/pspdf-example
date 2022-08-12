@@ -1,2 +1,2 @@
-# pspdft-example
+# pspdf-example
 PSPDF Web Standalone Example
